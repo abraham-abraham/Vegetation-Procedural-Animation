@@ -1,0 +1,1010 @@
+# Blender MTL File: 'room4.blend'
+# Material Count: 84
+
+newmtl Column1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.125926 0.015330 0.008738
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -s 24.999998 25.000000 25.000000 Tiles_Terracotta_007_basecolor.jpg
+
+newmtl Default_OBJ
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BHPS_Piano_HR_Colorv2.png
+
+newmtl Door2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.059966 0.116382
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -s 25.000000 25.000000 25.000000 Tiles_Terracotta_007_basecolor.jpg
+
+newmtl Floor2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 1000.000000 1000.000000 80.899994 Stone_Floor_006_basecolor.jpg
+
+newmtl Red
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Wingback_chair_Normal_DirectX.PNG
+map_Kd Wingback_chair_Base_Color.PNG
+
+newmtl Shkaf2_mtl
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Shkaf2_2019-02-27_16-26-15_complete.rpf_converted.jpg
+
+newmtl Shkaf_mtl
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Shkaf_2019-02-27_16-23-23_complete.rpf_converted.jpg
+
+newmtl Wall_door_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.059966 0.116382
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -s 4000.000000 4000.000000 4000.000000 Tiles_Terracotta_007_basecolor.jpg
+
+newmtl ban
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_ban_Normal.png
+map_Kd compass_ban_BaseColor.png
+
+newmtl blinn2
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd rug01_diff.tga.png
+
+newmtl book01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book01_book01_Normal.png
+map_Kd book01_book01_BaseColor.png
+
+newmtl book02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book02_book01_Normal.png
+map_Kd book02_book01_BaseColor.png
+
+newmtl book03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book03_book01_Normal.png
+map_Kd book03_book01_BaseColor.png
+
+newmtl case1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_case1_Normal.png
+map_Kd compass_case1_BaseColor.png
+
+newmtl case1.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_case1_Normal.png
+map_Kd compass_case1_BaseColor.png
+
+newmtl content_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book_open_content_mt_Normal.png
+map_Kd book_open_content_mt_BaseColor.png
+
+newmtl cover_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book_open_cover_mt_Normal.png
+map_Kd book_open_cover_mt_BaseColor.png
+
+newmtl drawer_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump table_drawer_mt_Normal.png
+map_Kd table_drawer_mt_BaseColor.png
+
+newmtl frame_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump lantern_frame_mt_Normal.png
+map_Kd lantern_frame_mt_BaseColor.png
+
+newmtl furo_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump letter02_furo_mt_Normal.png
+map_Kd letter02_furo_mt_BaseColor.png
+
+newmtl glass1
+Ns 9.000004
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl glass_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump lantern_glass_mt_Normal.png
+map_Kd lantern_glass_mt_BaseColor.png
+
+newmtl handle_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump table_handle_mt_Normal.png
+map_Kd table_handle_mt_BaseColor.png
+
+newmtl lambert3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.631818 0.631818 0.631818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -s 25.399998 25.099998 25.599998 Metal_Gold_001_normal.jpg
+map_Kd -s 25.399998 25.099998 25.599998 Metal_Gold_001_basecolor.jpg
+map_Ns -s 25.399998 25.099998 25.599998 Metal_Gold_001_roughness.jpg
+refl -s 25.399998 25.099998 25.599998 Metal_Gold_001_metallic.jpg
+
+newmtl lambert6
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -s 25.399998 25.099998 25.599998 Metal_Gold_001_normal.jpg
+map_Kd -s 25.399998 25.099998 25.599998 Metal_Gold_001_basecolor.jpg
+map_Ns -s 25.399998 25.099998 25.599998 Metal_Gold_001_roughness.jpg
+refl -s 25.399998 25.099998 25.599998 Metal_Gold_001_metallic.jpg
+
+newmtl lambert9
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -s 24.400000 28.799999 27.000000 Metal_Gold_001_normal.jpg
+map_Kd -s 24.400000 28.799999 27.000000 Metal_Gold_001_basecolor.jpg
+map_Ns -s 24.400000 28.799999 27.000000 Metal_Gold_001_roughness.jpg
+refl -s 24.400000 28.799999 27.000000 Metal_Gold_001_metallic.jpg
+
+newmtl leather
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_leather_Normal.png
+map_Kd tokei_leather_BaseColor.png
+
+newmtl leather.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_leather_Normal.png
+map_Kd tokei_leather_BaseColor.png
+
+newmtl leg_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump table_leg_mt_Normal.png
+map_Kd table_leg_mt_BaseColor.png
+
+newmtl letter01_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump letter01_letter01_mt_Normal.png
+map_Kd letter01_letter01_mt_BaseColor.png
+
+newmtl letter02_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump letter02_letter02_mt_Normal.png
+map_Kd letter02_letter02_mt_BaseColor.png
+
+newmtl map
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump map_map_Normal.png
+map_Kd map_map_BaseColor.png
+
+newmtl metal
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_metal_Normal.png
+map_Kd compass_metal_BaseColor.png
+
+newmtl metal.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_metal_Normal.png
+map_Kd compass_metal_BaseColor.png
+
+newmtl metal.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_metal_Normal.png
+map_Kd compass_metal_BaseColor.png
+
+newmtl metal.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_metal_Normal.png
+map_Kd compass_metal_BaseColor.png
+
+newmtl metal.004
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump compass_metal_Normal.png
+map_Kd compass_metal_BaseColor.png
+
+newmtl metal01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi01_metal01_Normal.png
+map_Kd kagi01_metal01_BaseColor.png
+
+newmtl metal01.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi01_metal01_Normal.png
+map_Kd kagi01_metal01_BaseColor.png
+
+newmtl metal02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi02_metal01_Normal.png
+map_Kd kagi02_metal01_BaseColor.png
+
+newmtl metal02.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi02_metal01_Normal.png
+map_Kd kagi02_metal01_BaseColor.png
+
+newmtl metal03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi03_metal01_Normal.png
+map_Kd kagi03_metal01_BaseColor.png
+
+newmtl metal03.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi03_metal01_Normal.png
+map_Kd kagi03_metal01_BaseColor.png
+
+newmtl metal04
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi04_metal01_Normal.png
+map_Kd kagi04_metal01_BaseColor.png
+
+newmtl metal04.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump kagi04_metal01_Normal.png
+map_Kd kagi04_metal01_BaseColor.png
+
+newmtl paper01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book01_paper_Normal.png
+map_Kd book01_paper_BaseColor.png
+
+newmtl paper01.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book01_paper_Normal.png
+map_Kd book01_paper_BaseColor.png
+
+newmtl paper01.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book01_paper_Normal.png
+map_Kd book01_paper_BaseColor.png
+
+newmtl paper01_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book_open_paper01_mt_Normal.png
+map_Kd book_open_paper01_mt_BaseColor.png
+
+newmtl paper02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book02_paper_Normal.png
+map_Kd book02_paper_BaseColor.png
+
+newmtl paper02.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book02_paper_Normal.png
+map_Kd book02_paper_BaseColor.png
+
+newmtl paper02.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book02_paper_Normal.png
+map_Kd book02_paper_BaseColor.png
+
+newmtl paper02_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book_open_paper02_mt_Normal.png
+map_Kd book_open_paper02_mt_BaseColor.png
+
+newmtl paper03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book03_paper_Normal.png
+map_Kd book03_paper_BaseColor.png
+
+newmtl paper03.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book03_paper_Normal.png
+map_Kd book03_paper_BaseColor.png
+
+newmtl paper03.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump book03_paper_Normal.png
+map_Kd book03_paper_BaseColor.png
+
+newmtl paper2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump paper02_paper_mt_Normal.png
+map_Kd paper02_paper_mt_BaseColor.png
+
+newmtl paper_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump paper01_paper_mt_Normal.png
+map_Kd paper01_paper_mt_BaseColor.png
+
+newmtl pen_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump pen_pen_mt_Normal.png
+map_Kd pen_pen_mt_BaseColor.png
+
+newmtl ring
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ring_metal01_Normal.png
+map_Kd ring_metal01_BaseColor.png
+
+newmtl sofa_03
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump sofa_03_nor_gl_4k.exr
+map_Kd sofa_03_diff_4k.jpg
+map_Ns sofa_03_rough_4k.jpg
+
+newmtl sofa_03_fringe
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump sofa_03_nor_gl_4k.exr
+map_Kd sofa_03_diff_4k.jpg
+map_Ns sofa_03_rough_4k.jpg
+
+newmtl stand_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump pen_stand_mt_Normal.png
+map_Kd pen_stand_mt_BaseColor.png
+
+newmtl stitch
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_stitch_Normal.png
+map_Kd tokei_stitch_BaseColor.png
+
+newmtl stitch.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_stitch_Normal.png
+map_Kd tokei_stitch_BaseColor.png
+
+newmtl stitch.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_stitch_Normal.png
+map_Kd tokei_stitch_BaseColor.png
+
+newmtl table_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump table_table_mt_Normal.png
+map_Kd table_table_mt_BaseColor.png
+
+newmtl tokei_ban
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_ban_Normal.png
+map_Kd tokei_ban_BaseColor.png
+
+newmtl tokei_metal01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal01_Normal.png
+map_Kd tokei_metal01_BaseColor.png
+
+newmtl tokei_metal01.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal01_Normal.png
+map_Kd tokei_metal01_BaseColor.png
+
+newmtl tokei_metal02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal02_Normal.png
+map_Kd tokei_metal02_BaseColor.png
+
+newmtl tokei_metal02.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal02_Normal.png
+map_Kd tokei_metal02_BaseColor.png
+
+newmtl tokei_metal02.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal02_Normal.png
+map_Kd tokei_metal02_BaseColor.png
+
+newmtl tokei_metal02.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal02_Normal.png
+map_Kd tokei_metal02_BaseColor.png
+
+newmtl tokei_metal02.004
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal02_Normal.png
+map_Kd tokei_metal02_BaseColor.png
+
+newmtl tokei_metal02.005
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal02_Normal.png
+map_Kd tokei_metal02_BaseColor.png
+
+newmtl tokei_metal02.006
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal02_Normal.png
+map_Kd tokei_metal02_BaseColor.png
+
+newmtl tokei_metal03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal03_Normal.png
+map_Kd tokei_metal03_BaseColor.png
+
+newmtl tokei_metal03.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal03_Normal.png
+map_Kd tokei_metal03_BaseColor.png
+
+newmtl tokei_metal04
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal04_Normal.png
+map_Kd tokei_metal04_BaseColor.png
+
+newmtl tokei_metal04.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal04_Normal.png
+map_Kd tokei_metal04_BaseColor.png
+
+newmtl tokei_metal04.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal04_Normal.png
+map_Kd tokei_metal04_BaseColor.png
+
+newmtl tokei_metal04.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump tokei_metal04_Normal.png
+map_Kd tokei_metal04_BaseColor.png
+
+newmtl vintage_grandfather_clock_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump vintage_grandfather_clock_01_nor_gl_4k.exr
+map_Kd vintage_grandfather_clock_01_diff_4k.jpg
+map_Ns vintage_grandfather_clock_01_rough_4k.jpg
+refl vintage_grandfather_clock_01_metal_4k.exr
